@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Demo_one</string>
+    <string-array name="country_names">
+        <item name="Algeria"/>
+        <item name="Belgium" />
+        <item name="Canada"/>
+        <item name="Denmark"/>
+        <item name="India"/>
+        <item name="London"/>
+    </string-array>
+    <string-array name="languages">
+        <item name="C"/>
+        <item name="C++"/>
+        <item name="Java"/>
+        <item name="SQL"/>
+        <item name="C#"/>
+        <item name="Python"/>
+        <item name="Javascript"/>
+        <item name="PHP"/>
+        <item name="Objective-C"/>
+        <item name="Ruby"/>
+        <item name="HTML"/>
+        <item name="CSS"/>
+    </string-array>
+    <string-array name="Description">
+    <item name="This is a language"/>
+    <item name="This is a language"/>
+    <item name="This is a language"/>
+        <item name="This is a language"/>
+        <item name="This is a language"/>
+        <item name="This is a language"/>
+        <item name="This is a language"/>
+        <item name="This is a language"/>
+        <item name="This is a language"/>
+        <item name="This is a language"/>
+        <item name="This is a language"/>
+        <item name="This is a language"/>
+    </string-array>
+
+</resources>
